@@ -36,7 +36,7 @@ window.LESSONS = [
    why:"數據要能追回是哪一版程式量的，AI 改壞也能還原。",
    tryit:"在練習資料夾 git init，存第一個點，改一行，再看 git diff。",
    together:"整理你現有的版本，決定哪一版要上真機。", take:"一個整理好的 repo" },
- { id:"test", kw:"對不對 驗證 測試 確認 數據怪 數字 平台 飽和 平平 沒有報錯 沒警告 結果 異常 沒報錯", use:"先寫會失敗的測試|最小修改，再看它通過|正常情境的數值要不變", name:"驗證", short:"驗證", model:"bench", layer:"guard", zone:"b", pos:[7.2,8.8], tag:"ABC", pre:["spec"],
+ { id:"test", kw:"對不對 驗證 測試 確認 數據怪 數字 飽和 平平 沒有報錯 沒警告 結果 異常 沒報錯", use:"先寫會失敗的測試|最小修改，再看它通過|正常情境的數值要不變", name:"驗證", short:"驗證", model:"bench", layer:"guard", zone:"b", pos:[7.2,8.8], tag:"ABC", pre:["spec"],
    stuck:"程式沒報錯，圖也畫出來了，但數字是錯的。",
    what:"先寫一個會失敗的測試，看到它失敗，做最小修改，再看它通過，正常情況不能變。",
    why:"「沒報錯」不等於「做對了」。證據要能重跑。",
